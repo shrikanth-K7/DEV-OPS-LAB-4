@@ -12,7 +12,3 @@ This line was added from GitHub web.
 
 
 
-This is a second local change.
-
-
-
